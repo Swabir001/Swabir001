@@ -4,6 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/hero.png" width="100%" alt="Swabir M. Bwana"/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=1200&color=BFBFC7&center=true&vCenter=true&width=740&height=40&lines=react+and+node+that+ships+to+real+users;interrupt-driven+C+on+bare+metal;crawlers%2C+indexes+and+UDP+servers+in+plain+C;neural+nets+synthesized+into+FPGA+logic" alt="what i work on"/>
 
 [![site](https://img.shields.io/badge/swabir.com-E50914?style=flat-square&labelColor=101014)](https://swabir.com)
