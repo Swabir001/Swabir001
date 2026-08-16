@@ -27,7 +27,7 @@ Junior at Dartmouth, Engineering Sciences modified with Computer Science at the 
 
 <img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/hdr-software.png" width="100%" alt="02 Software"/>
 
-### SwipePlate &nbsp;·&nbsp; campus food delivery &nbsp;·&nbsp; [repo](https://github.com/dartmouth-cs52-25S/project-swipe-plate)
+### SwipePlate &nbsp;·&nbsp; campus food delivery &nbsp;·&nbsp; [repo](https://github.com/dartmouth-cs52/project-swipe-plate)
 
 Order from any of the four Dartmouth dining halls and have another student deliver it. I led a team of four from an empty repo to a deployed product in six weeks, and built both halves myself. It ran on the real campus dining API, not mock JSON.
 
