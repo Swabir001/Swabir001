@@ -63,6 +63,8 @@ Both sides of the marketplace are real. A student can flip from ordering to deli
 
 ### Tiny Search Engine &nbsp;·&nbsp; crawler, indexer, querier in C &nbsp;·&nbsp; [repo](https://github.com/Swabir001/tse-Swabir001)
 
+<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/img-tse.jpg" width="70%" alt="Crawling, Indexing, Ranking"/>
+
 Three separate programs that pipe into each other, with nothing external doing the hard parts.
 
 ```mermaid
@@ -84,6 +86,8 @@ The querier gets boolean operator precedence right, which is the part most peopl
 
 ### Nuggets &nbsp;·&nbsp; 26-player UDP game server &nbsp;·&nbsp; [repo](https://github.com/Swabir001/nuggets-group-6)
 
+<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/img-nuggets.jpg" width="50%" alt="Nuggets — Too Many Bones"/>
+
 Real-time multiplayer dungeon game over a custom UDP protocol. The server owns everything: map layout, player positions, where the gold is scattered. Clients are terminals that send keypresses and receive live ncurses frames back. Per-player line of sight gets recomputed on every single move, which is where the actual difficulty lives.
 
 `C` `POSIX Sockets` `UDP` `ncurses` `Protocol Design`
@@ -92,6 +96,8 @@ Real-time multiplayer dungeon game over a custom UDP protocol. The server owns e
 
 ### StudyPod &nbsp;·&nbsp; study group matching &nbsp;·&nbsp; [repo](https://github.com/Swabir001/studyPod)
 
+<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/img-studypod.jpg" width="100%" alt="StudyPod — study group matching"/>
+
 Match with classmates by course, study style, and availability. Socket.io broadcasts a "studying now" signal to relevant matches, JWT handles auth, and a reliability reputation system means chronic no-shows get filtered out over time rather than wasting everyone's afternoon.
 
 `React` `Node` `Express` `MongoDB` `Socket.io` `JWT`
@@ -99,6 +105,8 @@ Match with classmates by course, study style, and availability. Socket.io broadc
 ---
 
 ### REST APIs on PostgreSQL &nbsp;·&nbsp; blog platform and multiplayer Wordle
+
+<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/img-rest-api.webp" width="100%" alt="REST API on PostgreSQL"/>
 
 Two backends on one foundation, aimed at different problems. Full CRUD for the blog; session, guess, and win-loss state across concurrent games for Wordle. Schema defined in Prisma, migrations run properly rather than hand-edited, endpoints tested end to end with Cypress.
 
@@ -123,7 +131,7 @@ Streaming-style interface on live TMDB data: season and episode browsers, watch 
 
 ### Street Food Atlas &nbsp;·&nbsp; CRUD recipe platform &nbsp;·&nbsp; [repo](https://github.com/Swabir001/StreetFoodAtlas_lab5-platform-api-Swabir001)
 
-<img src="https://raw.githubusercontent.com/Swabir001/portfolio/main/images/street-food.jpg" width="100%" alt="Street Food Atlas"/>
+<img src="https://raw.githubusercontent.com/Swabir001/portfolio/main/images/street-food.jpg" width="60%" alt="Street Food Atlas"/>
 
 React Router v7 data mode: loaders prefetch per route, actions trigger revalidation after writes. Zustand holds client-only state including an edit draft so cancelling never destroys the original record.
 
