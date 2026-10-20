@@ -27,7 +27,7 @@ Junior at Dartmouth, Engineering Sciences modified with Computer Science at the 
 
 <img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/hdr-software.png" width="100%" alt="02 Software"/>
 
-### SwipePlate &nbsp;·&nbsp; campus food delivery &nbsp;·&nbsp; [repo](https://github.com/dartmouth-cs52/project-swipe-plate)
+### SwipePlate &nbsp;·&nbsp; campus food delivery &nbsp;·&nbsp; [repo](https://github.com/Swabir001/project-swipe-plate)
 
 Order from any of the four Dartmouth dining halls and have another student deliver it. I led a team of four from an empty repo to a deployed product in six weeks, and built both halves myself. It ran on the real campus dining API, not mock JSON.
 
@@ -106,7 +106,7 @@ Two backends on one foundation, aimed at different problems. Full CRUD for the b
 
 ---
 
-### SwabFlix and Street Food Atlas &nbsp;·&nbsp; frontend &nbsp;·&nbsp; [repo](https://github.com/Swabir001/swabflix)
+### SwabFlix and Street Food Atlas &nbsp;·&nbsp; frontend &nbsp;·&nbsp; [SwabFlix repo](https://github.com/Swabir001/swabflix) &nbsp;·&nbsp; [Street Food Atlas repo](https://github.com/Swabir001/StreetFoodAtlas_lab5-platform-api-Swabir001)
 
 SwabFlix is a streaming-style interface on live TMDB data: season and episode browsers, watch history, ranked rows, skeleton loading states, responsive down to phone width. Street Food Atlas is a CRUD recipe platform on React Router v7 data mode, where loaders prefetch per route and actions trigger revalidation after writes. Zustand holds client-only state, including an edit draft so cancelling never destroys the original record.
 
@@ -133,7 +133,7 @@ The real design work was the four-state machine and a 200-unit ADC deadzone, tun
 </tr>
 </table>
 
-### FPGA neural network accelerator &nbsp;·&nbsp; Vitis HLS to silicon
+### FPGA neural network accelerator &nbsp;·&nbsp; Vitis HLS to silicon &nbsp;·&nbsp; [repo](https://github.com/Swabir001/W26-W9-LA)
 
 <table>
 <tr>
@@ -150,7 +150,7 @@ Then I optimized and logged what happened: loop unrolling, `PIPELINE II=1`, AXI 
 </tr>
 </table>
 
-### Bare-metal ARM and TinyML on STM32
+### Bare-metal ARM and TinyML on STM32 &nbsp;·&nbsp; [bare-metal repo](https://github.com/Swabir001/W26-W4-LA) &nbsp;·&nbsp; [TinyML repo](https://github.com/Swabir001/W26-W7-LA) &nbsp;·&nbsp; [SPI/BTLE repo](https://github.com/Swabir001/W26-W5-LA)
 
 <table>
 <tr>
