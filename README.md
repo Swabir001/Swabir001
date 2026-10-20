@@ -106,11 +106,28 @@ Two backends on one foundation, aimed at different problems. Full CRUD for the b
 
 ---
 
-### SwabFlix and Street Food Atlas &nbsp;·&nbsp; frontend &nbsp;·&nbsp; [SwabFlix repo](https://github.com/Swabir001/swabflix) &nbsp;·&nbsp; [Street Food Atlas repo](https://github.com/Swabir001/StreetFoodAtlas_lab5-platform-api-Swabir001)
+### SwabFlix &nbsp;·&nbsp; streaming-style interface &nbsp;·&nbsp; [repo](https://github.com/Swabir001/swabflix)
 
-SwabFlix is a streaming-style interface on live TMDB data: season and episode browsers, watch history, ranked rows, skeleton loading states, responsive down to phone width. Street Food Atlas is a CRUD recipe platform on React Router v7 data mode, where loaders prefetch per route and actions trigger revalidation after writes. Zustand holds client-only state, including an edit draft so cancelling never destroys the original record.
+<table>
+<tr>
+<td width="60%"><img src="https://raw.githubusercontent.com/Swabir001/portfolio/main/images/swabflix-home.png" width="100%" alt="SwabFlix home"/></td>
+<td width="40%"><img src="https://raw.githubusercontent.com/Swabir001/portfolio/main/images/swabflix-modal.png" width="100%" alt="SwabFlix detail modal"/></td>
+</tr>
+</table>
 
-`React 18` `TypeScript` `React Router v7` `Zustand` `Tailwind`
+Streaming-style interface on live TMDB data: season and episode browsers, watch history, ranked rows, skeleton loading states, responsive down to phone width.
+
+`React 18` `TypeScript` `Vite` `Tailwind` `Framer Motion`
+
+---
+
+### Street Food Atlas &nbsp;·&nbsp; CRUD recipe platform &nbsp;·&nbsp; [repo](https://github.com/Swabir001/StreetFoodAtlas_lab5-platform-api-Swabir001)
+
+<img src="https://raw.githubusercontent.com/Swabir001/portfolio/main/images/street-food.jpg" width="100%" alt="Street Food Atlas"/>
+
+React Router v7 data mode: loaders prefetch per route, actions trigger revalidation after writes. Zustand holds client-only state including an edit draft so cancelling never destroys the original record.
+
+`React` `React Router v7` `Zustand` `TypeScript`
 
 <!-- ═══════════════════════════ 03 ═══════════════════════════ -->
 
