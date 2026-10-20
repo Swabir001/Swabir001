@@ -63,8 +63,6 @@ Both sides of the marketplace are real. A student can flip from ordering to deli
 
 ### Tiny Search Engine &nbsp;·&nbsp; crawler, indexer, querier in C &nbsp;·&nbsp; [repo](https://github.com/Swabir001/tse-Swabir001)
 
-<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/card-tse.png" width="100%" alt="Tiny Search Engine"/>
-
 Three separate programs that pipe into each other, with nothing external doing the hard parts.
 
 ```mermaid
@@ -86,8 +84,6 @@ The querier gets boolean operator precedence right, which is the part most peopl
 
 ### Nuggets &nbsp;·&nbsp; 26-player UDP game server &nbsp;·&nbsp; [repo](https://github.com/Swabir001/nuggets-group-6)
 
-<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/card-nuggets.png" width="100%" alt="Nuggets"/>
-
 Real-time multiplayer dungeon game over a custom UDP protocol. The server owns everything: map layout, player positions, where the gold is scattered. Clients are terminals that send keypresses and receive live ncurses frames back. Per-player line of sight gets recomputed on every single move, which is where the actual difficulty lives.
 
 `C` `POSIX Sockets` `UDP` `ncurses` `Protocol Design`
@@ -95,8 +91,6 @@ Real-time multiplayer dungeon game over a custom UDP protocol. The server owns e
 ---
 
 ### StudyPod &nbsp;·&nbsp; study group matching &nbsp;·&nbsp; [repo](https://github.com/Swabir001/studyPod)
-
-<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/card-studypod.png" width="100%" alt="StudyPod"/>
 
 Match with classmates by course, study style, and availability. Socket.io broadcasts a "studying now" signal to relevant matches, JWT handles auth, and a reliability reputation system means chronic no-shows get filtered out over time rather than wasting everyone's afternoon.
 
@@ -106,8 +100,6 @@ Match with classmates by course, study style, and availability. Socket.io broadc
 
 ### REST APIs on PostgreSQL &nbsp;·&nbsp; blog platform and multiplayer Wordle
 
-<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/card-apis.png" width="100%" alt="REST APIs on PostgreSQL"/>
-
 Two backends on one foundation, aimed at different problems. Full CRUD for the blog; session, guess, and win-loss state across concurrent games for Wordle. Schema defined in Prisma, migrations run properly rather than hand-edited, endpoints tested end to end with Cypress.
 
 `Express` `Prisma` `PostgreSQL` `Cypress`
@@ -115,8 +107,6 @@ Two backends on one foundation, aimed at different problems. Full CRUD for the b
 ---
 
 ### SwabFlix and Street Food Atlas &nbsp;·&nbsp; frontend &nbsp;·&nbsp; [SwabFlix repo](https://github.com/Swabir001/swabflix) &nbsp;·&nbsp; [Street Food Atlas repo](https://github.com/Swabir001/StreetFoodAtlas_lab5-platform-api-Swabir001)
-
-<img src="https://raw.githubusercontent.com/Swabir001/Swabir001/main/assets/card-frontend.png" width="100%" alt="SwabFlix and Street Food Atlas"/>
 
 SwabFlix is a streaming-style interface on live TMDB data: season and episode browsers, watch history, ranked rows, skeleton loading states, responsive down to phone width. Street Food Atlas is a CRUD recipe platform on React Router v7 data mode, where loaders prefetch per route and actions trigger revalidation after writes. Zustand holds client-only state, including an edit draft so cancelling never destroys the original record.
 
